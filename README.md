@@ -59,10 +59,6 @@ Below are example visualizations generated during training and evaluation:
 |------------------|--------------------|
 | ![Confusion Matrix](outputs/confusion_matrix.png) | ![Feature Importance](outputs/feature_importance.png) |
 
-> *(Note: Add your own output image files to the `outputs/` folder in your repository.)*
-
----
-
 ## 🧠 Technologies Used
 - **Language:** Python  
 - **Libraries:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
